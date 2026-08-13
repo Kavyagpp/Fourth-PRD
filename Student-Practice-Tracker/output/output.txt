@@ -1,0 +1,108 @@
+
+===============================
+   STUDENT PRACTICE TRACKER
+===============================
+
+Enter Student Name:
+kavya
+
+Enter Course Name:
+java
+
+Enter Completed Topics:
+20
+
+Enter Questions Solved:
+5
+
+===============================
+           MENU
+===============================
+
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice:
+1
+Student Name: kavya
+Course Name: java
+
+===============================
+           MENU
+===============================
+
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice:
+2
+CompletedTopics: 20
+Question Solved: 5
+
+===============================
+           MENU
+===============================
+
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice:
+3
+How many new topics did you complete?
+4
+Completed Topics: 24
+
+===============================
+           MENU
+===============================
+
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice:
+4
+How many new questions did you solve?
+2
+Questions Solved: 7
+
+===============================
+           MENU
+===============================
+
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice:
+1
+Student Name: kavya
+Course Name: java
+
+===============================
+           MENU
+===============================
+
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice:
+5
+User program finished
+Thank You for using Student Practice Tracker
